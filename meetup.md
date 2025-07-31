@@ -5,7 +5,7 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
-## The Jult 2025 Meetup
+## The July 2025 Meetup
 
 ### Talk 1: Writing Android system apps
 
