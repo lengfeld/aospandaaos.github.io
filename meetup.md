@@ -18,7 +18,7 @@ your CI usecases, and configure these environments as needed.
 
 Sergio Rodriguez, Google
 
-[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-may-srodriguez-cuttlefish.pdf}
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-may-srodriguez-cuttlefish.pdf)
 [video](https://peertube.tech/w/shUbZtWqcMHY8cCYyMPDps)
 
 
