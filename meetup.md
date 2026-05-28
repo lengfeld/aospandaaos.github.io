@@ -5,6 +5,22 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
+## The May 2026 Meetup
+
+27th May 2026: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460222/>
+
+### Talk 1: Cuttlefish Development & Deployment
+
+Cuttlefish is an Android based VM that can be used for Android Platform
+development, kernel development, and app development amongst other things.
+We'll discuss how to set one up, launch locally for development, remotely for
+your CI usecases, and configure these environments as needed.
+
+Sergio Rodriguez, Google
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-may-srodriguez-cuttlefish.pdf}
+[video](https://peertube.tech/w/shUbZtWqcMHY8cCYyMPDps)
+
 
 ## The March 2026 Meetup
 
